@@ -1,7 +1,8 @@
-<!--[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNlMmV0dTlzaDlyODJrbHV2enh2cmpqbThpNm51ZTM5aGxmeG1kZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif)](https://github.com/R3cklessC4)-->
-<h1 align="center">Hi 👋, I'm Joshua Angulo</h1>
+[![MasterHead](Banner.png)](https://github.com/R3cklessC4)
+<!--<h1 align="center">Hi there 👋, I'm Joshua Angulo</h1>-->
 <h3 align="center">Passionate frontend developer from New York</h3>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFtbGxqdjAxdmZvNDZ6dDJidXppeWpxajNnZnNkcDBoNzZvaGVzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="350" align="right" alt="Coding">
+- 🤷 My name is Joshua Angulo and I am currently working on several side projects. Some of them are listed below.
 
 - 🔭 I’m currently working on **Fugue** (an Educational Programming Environment)
 
